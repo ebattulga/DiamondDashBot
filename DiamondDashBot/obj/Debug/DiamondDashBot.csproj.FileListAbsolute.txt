@@ -1,0 +1,9 @@
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\bin\Debug\DiamondDashBot.exe.config
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\bin\Debug\DiamondDashBot.exe
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\bin\Debug\DiamondDashBot.pdb
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\obj\Debug\DiamondDashBot.csprojResolveAssemblyReference.cache
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\obj\Debug\DiamondDash.Form1.resources
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\obj\Debug\DiamondDash.Properties.Resources.resources
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\obj\Debug\DiamondDashBot.csproj.GenerateResource.Cache
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\obj\Debug\DiamondDashBot.exe
+D:\Tulgaa\Projects\Visual studio Projects\Last\DiamondDashBot\DiamondDashBot\obj\Debug\DiamondDashBot.pdb

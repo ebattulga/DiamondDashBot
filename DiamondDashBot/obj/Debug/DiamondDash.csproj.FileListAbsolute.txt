@@ -1,0 +1,9 @@
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\bin\Debug\DiamondDash.exe.config
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\bin\Debug\DiamondDash.exe
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\bin\Debug\DiamondDash.pdb
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\obj\Debug\DiamondDash.csprojResolveAssemblyReference.cache
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\obj\Debug\DiamondDash.Form1.resources
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\obj\Debug\DiamondDash.Properties.Resources.resources
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\obj\Debug\DiamondDash.csproj.GenerateResource.Cache
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\obj\Debug\DiamondDash.exe
+C:\users\ebattulga\AppData\Local\Temporary Projects\DiamondDash\obj\Debug\DiamondDash.pdb
